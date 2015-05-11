@@ -1,7 +1,0 @@
-#Successful Tests
-#Wed May 06 14:23:41 EDT 2015
-com.canopylabs.wordsearch.TfLdfVectorSpec=1430936621823
-com.canopylabs.wordsearch.DocumentSearchServiceSpec=1430936621823
-com.canopylabs.wordsearch.CosineSimilaritySpec=1430936621823
-com.canopylabs.wordsearch.WordFrequencyMapSpec=1430936621861
-com.canopylabs.wordsearch.DocumentSpec=1430936621824
